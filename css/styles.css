@@ -201,8 +201,7 @@ body {
 
 /* #region main */
 .main {
-  position: relative;
-  top: -35px;
+  margin-top: -35px;
 }
 /* #region adventure */
 .adventure {
